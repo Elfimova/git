@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Книжный Рай{% endblock %}</title>
+    {% block stylesheets %}
+        <link rel="stylesheet" href="{{ asset('assets/framework/fontawesome-free-5.13.0-web/css/all.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/framework/bootstrap-4.4.1-dist/css/bootstrap.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/main/css/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/layout/styles/layout.css') }}" type="text/css" media="all">
+    {% endblock %}
+</head>
+<body class="main" style="background-image:url('{{ asset('assets/images/i.jfif') }}');">
+{% block body %}{% endblock %}
+{% block javascripts %}
+    {{ include('default/scripts.html.twig') }}
+{% endblock %}
+</body>
+</html>

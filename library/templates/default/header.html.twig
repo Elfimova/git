@@ -1,0 +1,23 @@
+<header id="top">
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="wrapper row2">
+        <nav id="mainav" class="hoc clear">
+            <div id="logo" class="fl_left">
+                <h1><a href="/">Книжный Рай</a></h1>
+            </div>
+            <div class="fl_right">
+                <ul class="clear">
+                    {% if app.user %}
+                        <li><a class="fa fa-user" href="/" >  {{ app.user.name }}</a> </li>
+                        <li><a class="fa fa-book" href="{{ path('book_new') }}" > Добавить книгу </a></li>
+                        <li><a class="fa fa-sign-out" href="{{ path('app_logout') }}" > Выйти </a></li>
+                    {% else %}
+                        <li><a class="fa fa-sign-in" href="{{ path('app_login') }}" >  Войти</a></li>
+                        <li><a class="fa fa-pencil" href="{{ path('app_register') }}" >  Регистрация</a></li>
+                    {% endif %}
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>

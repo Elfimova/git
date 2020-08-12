@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fafdbbf0-3394-4560-8a07-8126c9011986" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" hide_empty_superglobals="false" show_user_defined_constants="false" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Yz3Qpiz80k5dMPdDiA89rAKJmT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager">
+    <configuration name="azino777.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/azino777.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.azino777.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafdbbf0-3394-4560-8a07-8126c9011986" name="Default Changelist" comment="" />
+      <created>1583931581911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583931581911</updated>
+      <workItem from="1583931583290" duration="7791000" />
+      <workItem from="1584001565806" duration="3975000" />
+      <workItem from="1588203304446" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1202" height="63" key="GridCell.Tab.0.bottom" timestamp="1584005445489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="63" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584005445489" />
+    <state width="1202" height="63" key="GridCell.Tab.0.center" timestamp="1584005445489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="63" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584005445489" />
+    <state width="1202" height="63" key="GridCell.Tab.0.left" timestamp="1584005445488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="63" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584005445488" />
+    <state width="1202" height="63" key="GridCell.Tab.0.right" timestamp="1584005445489">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="63" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584005445489" />
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom" timestamp="1584002848766">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584002848766" />
+    <state width="1202" height="185" key="GridCell.Tab.1.center" timestamp="1584002848766">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584002848766" />
+    <state width="1202" height="185" key="GridCell.Tab.1.left" timestamp="1584002848765">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584002848765" />
+    <state width="1202" height="185" key="GridCell.Tab.1.right" timestamp="1584002848766">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584002848766" />
+    <state x="476" y="272" key="NewPhpFileDialog" timestamp="1583931597133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="476" y="272" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1583931597133" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1583931612266">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583931612266" />
+    <state x="418" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1591631587398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584001572109" />
+    <state x="418" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591631587398" />
+  </component>
+</project>
